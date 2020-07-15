@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/howToUse"
+        android:orderInCategory="200"
+        android:title="@string/howToUse"
+        app:showAsAction="ifRoom"
+       />
+
+    <item
+        android:id="@+id/instagram"
+        android:orderInCategory="100"
+        android:title="@string/insta"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/instagram"/>
+
+</menu>

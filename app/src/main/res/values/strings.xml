@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">InstagramDownloader</string>
+
+    <string name="noUrlFound">No Instagram Url Found !!</string>
+    <string name="connectserver">Connecting server</string>
+    <string name="plswait">Please Wait ...</string>
+    <string name="novideotoplay">Nothing to play</string>
+    <string name="wait">Please wait</string>
+    <string name="downloadtointernal">\"Video is downloading to Internal Memory ... \"</string>
+    <string name="errortyagain">Error !! Try Again...</string>
+    <string name="wanttodeleltefile">Want to Delete/Open File ?</string>
+    <string name="oopn">OPEN</string>
+    <string name="deletes">DELETE</string>
+    <string name="vdiodeleted">Video is deleted</string>
+    <string name="justasec">Just a second the video is avialable to be shared..</string>
+    <string name="sharewith">Share This Video with</string>
+    <string name="noimagetoprint">No Image to print</string>
+    <string name="imageetointernal">\"Image is downloaded to Internal Storage. \"</string>
+    <string name="open">OPEN</string>
+    <string name="imgdeleted">Image is deleted</string>
+    <string name="noimage">No Image to Download ..</string>
+    <string name="wanttoshare"><![CDATA[\"Hey Want to share & download Photo and video from Instagram.Check this application \"]]></string>
+    <string name="shareimagewith">Share This Image with</string>
+    <string name="noimgtoshare">There is no image to share</string>
+    <string name="fieldcntbeempty">Field can\'t be empty !!</string>
+    <string name="checkurl">Please Check the url !!</string>
+    <string name="appnotfound">Sorry, Instagram Apps Not Found</string>
+    <string name="howToUse">How To Use</string>
+    <string name="insta">Instagram</string>
+
+    <string name="how_to_use">
+        "&lt;br>&lt;b>&lt;u>FOR PUBLIC ACCOUNT.&lt;/u>&lt;/b>&lt;/br>"
+
+        "&lt;br>&lt;br>1.Tap on Open Instagram Button from top App Bar."
+        "&lt;br>&lt;br>2.Choose any image OR Video that you want to download on your smartphone then tap on three vertical dots."
+        "&lt;br>&lt;br>3.Choose Copy Share URL option."
+        "&lt;br>&lt;br>4.Now open this app and click on Paste Button."
+        "&lt;br>&lt;br>5.Click on Load Url Button."
+        "&lt;br>&lt;br>6.Cong&#8230;Its done !!!"
+
+        "&lt;br>&lt;br>&lt;b>&lt;br>&lt;u>FOR PRIVATE ACCOUNT.&lt;/u>&lt;/b>&lt;/br>"
+
+        "&lt;br>&lt;br>1.Open Instagram.com in your browser(PC) and log in to your account using Facebook Sign In or using your account credentials."
+        "&lt;br>&lt;br>2.Search for the person you want to download pictures. Make sure that you are his/her follower."
+        "&lt;br>&lt;br>3.After getting into their profile, Click on the picture OR Video you want to download. "
+        "&lt;br>&lt;br>4.After clicking on the picture/Video, the picture pops out into a frame. Now place your mouse on the picture and right-click on it. Select the option Inspect."
+        "&lt;br>&lt;br>5.Press ctrl+F and enter jpg or mp4 for image or video url respectively. Hit enter Button from keyboard."
+        "&lt;br>&lt;br>6.Copy the link."
+        "&lt;br>&lt;br>7.Now open this app and click on Paste Button."
+        "&lt;br>&lt;br>8.Click on Load Url Button."
+        "&lt;br>&lt;br>9.Cong&#8230; Its done !!!"
+
+        "&lt;br>&lt;br>&lt;br>&lt;b>&lt;u>Disclaimer :-&lt;/u>&lt;br>Plaese don't use app's feature without consent of your followers. Developer isn't responsible for your action&lt;/b>"
+
+
+
+    </string>
+</resources>
